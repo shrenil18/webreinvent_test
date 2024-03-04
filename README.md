@@ -1,4 +1,4 @@
-Follow these steps to get your MERN stack application up and running:
+Follow these steps to get your application up and running:
 
 1. Backend Setup:
 
